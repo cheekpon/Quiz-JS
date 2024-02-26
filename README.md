@@ -9,7 +9,6 @@ Bem-vindo ao Quiz de JavaScript, uma aplicação web interativa construída com 
 - Html
 - Css
 - JavaScript
-- GitHub
 
 ## Recursos:
 
